@@ -1,3 +1,4 @@
+[![WWDC Banner](https://developer.apple.com/wwdc/images/wwdc16-og.jpg)](https://developer.apple.com/wwdc/)
 # WWDC 2016 Scholarship Submissions
 
 List of student submissions for the WWDC 2016 scholarship.
