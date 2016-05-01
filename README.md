@@ -9,7 +9,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 | Name | App Store Link | Second App Video/Source | Social Media | Status |
 | ---- | -------------- | ----------------------- | ------------ | ------ |
-|AMAN JAIN|[Hurtle iOS Gmae]https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)|[@amanj203](https://twitter.com/amanj203)| |
+|AMAN JAIN|[Hurtle iOS Gmae](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)|[@amanj203](https://twitter.com/amanj203)| |
 |Dean Eigenmann|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |Finn Gaida|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|[@fga](https://twitter.com/fga)| |
 |Jeremy Stucki|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
