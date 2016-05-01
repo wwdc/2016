@@ -23,5 +23,6 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Sebastian Dobrincu|[Voya - Your personal travel assistant](https://itunes.apple.com/us/app/voya-your-personal-travel/id1082760606)|[YouTube](https://www.youtube.com/watch?v=fbTMWC0y9hs)|[@Sebyddd](https://twitter.com/sebyddd)| |
 |Stephen McMillan|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)| |[@Stevowevo77](https://twitter.com/stevowevo77)| |
 |Vladimir Danila|[Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8)|Submitted|[@DanilaVladi](https://twitter.com/danilavladi)| |
+|Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|Submitted||
 |Yichen Cao|[pixel](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8)|Submitted|[@Schemetrical](https://twitter.com/schemetrical)| |
 <!-- Don't remove the newline -->
