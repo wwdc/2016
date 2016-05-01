@@ -9,5 +9,5 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 | Name | App Store Link | Second App Video/Source | Social Media | Status |
 | ---- | -------------- | ----------------------- | ------------ | ------ |
-|Marcel Voss|||[Twitter](https://twitter.com/uimarcel)||
+|Marcel Voss||Submitted|[Twitter](https://twitter.com/uimarcel)||
 <!-- Don't remove the newline -->
