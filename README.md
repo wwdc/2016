@@ -10,6 +10,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 | Name | App Store Link | Second App Video/Source | Social Media | Status |
 | ---- | -------------- | ----------------------- | ------------ | ------ |
 |Andrew Robinson|[Brio - Don’t Fall!](https://itunes.apple.com/us/app/brio-dont-fall!/id1087287522?mt=8)| |[@SirArkimedes](https://twitter.com/sirarkimedes)| |
+|Arik Sosman||[YouTube](https://youtu.be/TtHM31sxxbU)|[@arikaleph](https://twitter.com/arikaleph)||
 |Dean Eigenmann|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |Finn Gaida|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|[@fga](https://twitter.com/fga)| |
 |Jeremy Stucki|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
