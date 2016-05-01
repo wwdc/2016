@@ -27,4 +27,5 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|Submitted||
 |Yichen Cao|[pixel](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8)|Submitted|[@Schemetrical](https://twitter.com/schemetrical)| |
 |Andrew Ke|[Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8)|Submitted|[@andrewke64](https://twitter.com/andrewke64)| |
+|Eli Yazdi|[3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)|[GitHub](http://github.com/eliyazdi/3dtones)|[@eli_yazdi](https://twitter.com/eli_yazdi)| |
 <!-- Don't remove the newline -->
