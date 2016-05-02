@@ -23,6 +23,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Evan Dekhayser|[Contact Archiver](https://itunes.apple.com/us/app/contact-archiver/id733594022?mt=8)|[GitHub](https://github.com/edekhayser/WWDC-2016-Scholarship-App)|[@ERDekhayser](https://twitter.com/ERDekhayser)|
 |Finn Gaida|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|[@fga](https://twitter.com/fga)| |
 |George Turner||Submitted|[@flamingfusion](https://twitter.com/FlamingFusion)| |
+|Gustaf Rosenblad|[School meal (Sweden only)](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|[@rosecoder](https://twitter.com/rosecoder)||
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)| Submitted | | |
 |Jeremy Stucki|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |Kabir Oberai| |Submitted|[@kabiroberai](https://twitter.com/kabiroberai)| |
