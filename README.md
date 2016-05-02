@@ -15,7 +15,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Andrew Ke|[Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8)|Submitted|[@andrewke64](https://twitter.com/andrewke64)| |
 |Andrew Robinson|[Brio - Don't Fall!](https://itunes.apple.com/us/app/brio-dont-fall!/id1087287522?mt=8)| |[@SirArkimedes](https://twitter.com/sirarkimedes)| |
 |Arik Sosman||[YouTube](https://youtu.be/TtHM31sxxbU)|[@arikaleph](https://twitter.com/arikaleph)||
-|Arnav Gudibande|[DriveSafe](https://github.com/SFHSHacks/DriveSafe)|[YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU)|
+|Arnav Gudibande|[DriveSafe](https://github.com/SFHSHacks/DriveSafe)|[YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU)|||
 |Aryan Kashyap|[]()|[YouTube](https://www.youtube.com/watch?v=qD-uxBhNKb4)|[@NSAryan12](https://twitter.com/NSAryan12?lang=en-gb)| |
 |Cheng-Yu Hsu|[Hop](http://hop.appfinca.com)|[GitHub](https://github.com/cyhsutw/imaji)|[@cyhsutw](https://twitter.com/cyhsutw)|| 
 |Dean Eigenmann|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
