@@ -26,6 +26,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Gustaf Rosenblad|[School meal (Sweden only)](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|[@rosecoder](https://twitter.com/rosecoder)||
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)| Submitted | | |
 |Jeremy Stucki|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
+|Josh Bruce||Submitted|[@Brucey125](https://twitter.com/Brucey125)| |
 |Kabir Oberai| |Submitted|[@kabiroberai](https://twitter.com/kabiroberai)| |
 |Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
 |Marcel Voss||Submitted|[@uimarcel](https://twitter.com/uimarcel)||
