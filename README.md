@@ -11,6 +11,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 | Name | App Store Link | Second App Video/Source | Social Media | Status |
 | ---- | -------------- | ----------------------- | ------------ | ------ |
 |Agisilaos Tsaraboulidis| |Submitted|[@AgisilaosTs](https://twitter.com/AgisilaosTs)| |
+|Alex Telek| |Submitted|[@alexmtk](https://twitter.com/alexmtk)| |
 |Aman Jain|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)|[@amanj203](https://twitter.com/amanj203)| |
 |Andreas Neusuess|[TourTime](https://itunes.apple.com/app/id848979893)|[YouTube](https://youtu.be/7It2i-9BCp8) / [Source](https://github.com/Tantalum73/InteractiveResume-WWDC2016)|[@Klaarname](https://twitter.com/Klaarname)| |
 |Andrew Ke|[Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8)|Submitted|[@andrewke64](https://twitter.com/andrewke64)| |
