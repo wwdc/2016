@@ -30,7 +30,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Jeremy Stucki|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |John Ciocca||Submitted|[@JohnCiocca](https://twitter.com/johnciocca)||
 |Kabir Oberai| |Submitted|[@kabiroberai](https://twitter.com/kabiroberai)| |
-|Kyle Spadaro| |[GitHub] (https://github.com/kylespadaro/KyleSpadaro)| [@kylespadaro] (https://twitter.com/kylespadaro)| |
+|Kyle Spadaro| |[GitHub](https://github.com/kylespadaro/KyleSpadaro)| [@kylespadaro] (https://twitter.com/kylespadaro)| |
 |Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
 |Marcel Voss||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|[@uimarcel](https://twitter.com/uimarcel)||
 |Maximilian Litteral|[Television Time - Track your favorite shows](http://maximilianlitteral.com/TelevisionTime/iTunes/index.html)| |[@MaxHasADHD](https://twitter.com/MaxHasADHD)| |
