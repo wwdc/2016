@@ -25,6 +25,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)| Submitted | | |
 |Jeremy Stucki|[Parkly](https://parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |Kabir Oberai| |Submitted|[@kabiroberai](https://twitter.com/kabiroberai)| |
+|Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
 |Marcel Voss||Submitted|[@uimarcel](https://twitter.com/uimarcel)||
 |Maximilian Litteral|[Television Time - Track your favorite shows](http://maximilianlitteral.com/TelevisionTime/iTunes/index.html)| |[@MaxHasADHD](https://twitter.com/MaxHasADHD)| |
 |Salman Husain|[Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete)|[YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o)|[@aeroxtwo](https://twitter.com/aeroxtwo)| |
