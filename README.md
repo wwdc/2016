@@ -19,6 +19,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Arik Sosman||[YouTube](https://youtu.be/TtHM31sxxbU)|[@arikaleph](https://twitter.com/arikaleph)||
 |Arnav Gudibande|[DriveSafe](https://github.com/SFHSHacks/DriveSafe)|[YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU)|||
 |Aryan Kashyap|[]()|[YouTube](https://www.youtube.com/watch?v=qD-uxBhNKb4)|[@NSAryan12](https://twitter.com/NSAryan12?lang=en-gb)| |
+|Brendan Boyle|[Universal Presenter Remote](https://itunes.apple.com/us/app/universal-presenter-remote/id866740670?ls=1&mt=8)|[GitHub](https://github.com/brendancboyle/Universal-Presenter-Remote-iOS/)|[@brendancboyle](https://twitter.com/brendancboyle)| |
 |Cheng-Yu Hsu|[Hop](http://hop.appfinca.com)|[GitHub](https://github.com/cyhsutw/imaji)|[@cyhsutw](https://twitter.com/cyhsutw)|| 
 |Dean Eigenmann|[Parkly](https://www.parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |Eli Yazdi|[3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)|[GitHub](http://github.com/eliyazdi/3dtones)|[@eli_yazdi](https://twitter.com/eli_yazdi)| |
