@@ -43,6 +43,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|[YouTube](https://www.youtube.com/watch?v=H429tmvM0zI)||
 |Vladimir Danila|[Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8)|Submitted|[@DanilaVladi](https://twitter.com/danilavladi)| |
 |Weiran Xiong| |Submitted|[@WeiranXiong](https://twitter.com/WeiranXiong)| |
+| Will Oakley | [Coincident](https://itunes.apple.com/ie/app/coincident-3d-touch-game/id1069735902?mt=8) | [GitHub - DPHS App](https://github.com/woakley5/DPHS-App) | [@woakley5](https://twitter.com/woakley5) |  |		
 |Yichen Cao|[pixel](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8)|Submitted|[@Schemetrical](https://twitter.com/schemetrical)| |
 
 <!-- Don't remove the newline. Alphabetical order please! -->
