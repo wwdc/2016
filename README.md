@@ -38,6 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Marcel Voss||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|[@uimarcel](https://twitter.com/uimarcel)||
 |Maximilian Litteral|[Television Time - Track your favorite shows](http://maximilianlitteral.com/TelevisionTime/iTunes/index.html)| |[@MaxHasADHD](https://twitter.com/MaxHasADHD)| |
 |Michael Dugan||Submitted|[@Michael_Dugan33](https://twitter.com/Michael_Dugan33)||
+|Natanel Niazoff|[Zmanim for YU](https://itunes.apple.com/us/app/zmanim-for-yu/id1071006216?mt=8)||[@niazoff](https://twitter.com/niazoff)| |
 |Salman Husain|[Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete)|[YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o)|[@aeroxtwo](https://twitter.com/aeroxtwo)| |
 |Sam Eckert|[Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)|[YouTube](https://www.youtube.com/watch?v=4uFP_xQWOX4)|[@Sam0711er](https://twitter.com/Sam0711er)| |
 |Sam Patzer| |[YouTube](https://www.youtube.com/watch?v=-DFINkoEZhU)|[@Wizages](https://twitter.com/wizages)| |
