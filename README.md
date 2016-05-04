@@ -2,7 +2,7 @@
 # WWDC 2016 Scholarship Submissions
 
 List of student submissions for the WWDC 2016 scholarship.
-To add your own below, just submit a [pull request](https://github.com/wwdc/2016/pulls)!
+To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/README.md) this file and submit a pull request!
 
 <!--http://www.alphabetize.org-->
 <!-- Insert your name below in alphabetical order. -->
