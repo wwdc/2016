@@ -33,6 +33,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |John Ciocca||Submitted|[@JohnCiocca](https://twitter.com/johnciocca)||
 |Josh Bruce||Submitted|[@Brucey125](https://twitter.com/Brucey125)| |
 |Kabir Oberai| |Submitted|[@kabiroberai](https://twitter.com/kabiroberai)| |
+|Klemens Strasser|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Facebook](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|[@klemensstrasser](https://twitter.com/klemensstrasser)||
 |Kyle Spadaro| |[GitHub](https://github.com/kylespadaro/KyleSpadaro)| [@kylespadaro](https://twitter.com/kylespadaro)| |
 |Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
 |Marcel Voss||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|[@uimarcel](https://twitter.com/uimarcel)||
