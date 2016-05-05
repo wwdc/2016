@@ -8,7 +8,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 <!-- Insert your name below in alphabetical order. -->
 <!-- Please only submit the apps that you submitted for WWDC2016. -->
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
-| Name | App Store Link | Second App Video/Source | Social Media | Status |
+| Name | App Store Link | Second App | Social Media | Status |
 | ---- | -------------- | ----------------------- | ------------ | ------ |
 |Agisilaos Tsaraboulidis| |Submitted|[@AgisilaosTs](https://twitter.com/AgisilaosTs)| |
 |Alex Telek| |Submitted|[@alexmtk](https://twitter.com/alexmtk)| |
@@ -29,14 +29,14 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Evan Dekhayser|[Contact Archiver](https://itunes.apple.com/us/app/contact-archiver/id733594022?mt=8)|[GitHub](https://github.com/edekhayser/WWDC-2016-Scholarship-App)|[@ERDekhayser](https://twitter.com/ERDekhayser)| |
 |Finn Gaida|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|[@fga](https://twitter.com/fga)| |
 |George Turner||Submitted|[@flamingfusion](https://twitter.com/FlamingFusion)| |
-|Gustaf Rosenblad|[School meal (Sweden only)](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|[@rosecoder](https://twitter.com/rosecoder)||
+|Gustaf Rosenblad|[School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|[@rosecoder](https://twitter.com/rosecoder)||
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)| Submitted | | |
 |Jeremy Stucki|[Parkly](https://www.parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |John Ciocca||Submitted|[@JohnCiocca](https://twitter.com/johnciocca)||
 |Josh Bruce||Submitted|[@Brucey125](https://twitter.com/Brucey125)| |
 |Kabir Oberai| |Submitted|[@kabiroberai](https://twitter.com/kabiroberai)| |
-|Kesi Maduka| |[Site](https://stm.io)|[@k3zi_](https://twitter.com/k3zi_)| |
-|Klemens Strasser|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Facebook](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|[@klemensstrasser](https://twitter.com/klemensstrasser)||
+|Kesi Maduka| |[Homepage](https://stm.io)|[@k3zi_](https://twitter.com/k3zi_)| |
+|Klemens Strasser|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Homepage](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|[@klemensstrasser](https://twitter.com/klemensstrasser)||
 |Kyle Spadaro| |[GitHub](https://github.com/kylespadaro/KyleSpadaro)| [@kylespadaro](https://twitter.com/kylespadaro)| |
 |Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
 |Marcel Voss||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|[@uimarcel](https://twitter.com/uimarcel)||
@@ -53,6 +53,6 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|[YouTube](https://www.youtube.com/watch?v=H429tmvM0zI)| | |
 |Vladimir Danila|[Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8)|Submitted|[@DanilaVladi](https://twitter.com/danilavladi)| |
 |Weiran Xiong| |Submitted|[@WeiranXiong](https://twitter.com/WeiranXiong)| |
-| Will Oakley | [Coincident](https://itunes.apple.com/ie/app/coincident-3d-touch-game/id1069735902?mt=8) | [GitHub](https://github.com/woakley5/DPHS-App) | [@woakley5](https://twitter.com/woakley5) |  |		
+|Will Oakley| [Coincident](https://itunes.apple.com/ie/app/coincident-3d-touch-game/id1069735902?mt=8) | [GitHub](https://github.com/woakley5/DPHS-App) | [@woakley5](https://twitter.com/woakley5) |  |		
 |Yichen Cao|[pixel - color picker and keyboard](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8)|Submitted|[@Schemetrical](https://twitter.com/schemetrical)| |
 <!-- Don't remove the newline. Alphabetical order please! -->
