@@ -30,6 +30,6 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|Submitted||
 |Vladimir Danila|[Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8)|Submitted|[@DanilaVladi](https://twitter.com/danilavladi)| |
 |Yichen Cao|[pixel](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8)|Submitted|[@Schemetrical](https://twitter.com/schemetrical)| |
-|Aryan Kashyap|[]()|[Youtube](https://www.youtube.com/watch?v=qD-uxBhNKb4)/[Github](https://github.com/akashyap99/WWDC-2016-Scholarship-Submission) |[@NSAryan12](https://twitter.com/NSAryan12?lang=en-gb)| |
+|Aryan Kashyap|[]()|[YouTube](https://www.youtube.com/watch?v=qD-uxBhNKb4)/[Github](https://github.com/akashyap99/WWDC-2016-Scholarship-Submission) |[@NSAryan12](https://twitter.com/NSAryan12?lang=en-gb)| |
 
 <!-- Don't remove the newline. Alphabetical order please! -->
