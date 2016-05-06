@@ -32,6 +32,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Finn Gaida|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|[@fga](https://twitter.com/fga)| |
 |George Turner||Submitted|[@flamingfusion](https://twitter.com/FlamingFusion)| |
 |Gustaf Rosenblad|[School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|[@rosecoder](https://twitter.com/rosecoder)||
+|Hari| |Submitted| |@coderguy5| |https://www.twitter.com/coderguy5|
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)| Submitted | | |
 |Jeremy Stucki|[Parkly](https://www.parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
 |John Ciocca||Submitted|[@JohnCiocca](https://twitter.com/johnciocca)||
