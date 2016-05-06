@@ -43,6 +43,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Kyle Bashour| [Dodger](https://itunes.apple.com/app/id1050023116) |[Grove](https://github.com/kylebshr/grove)| [@kylebshr](https://twitter.com/kylebshr)| |
 |Kyle Spadaro| |[GitHub](https://github.com/kylespadaro/KyleSpadaro)| [@kylespadaro](https://twitter.com/kylespadaro)| |
 |Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
+|Maurice Breit|[4Fahrt](https://itunes.apple.com/de/app/4fahrt-schuler/id1105478291?mt=8)| |[@1mau6](https://twitter.com/1mau6)| |
 |Marcel Voss||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|[@uimarcel](https://twitter.com/uimarcel)||
 |Maximilian Litteral|[Television Time - Track your favorite shows](http://maximilianlitteral.com/TelevisionTime/iTunes/index.html)| |[@MaxHasADHD](https://twitter.com/MaxHasADHD)| |
 |Michael Dugan||Submitted|[@Michael_Dugan33](https://twitter.com/Michael_Dugan33)||
