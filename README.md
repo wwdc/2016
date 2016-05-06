@@ -38,6 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Kabir Oberai| |Submitted|[@kabiroberai](https://twitter.com/kabiroberai)| |
 |Kesi Maduka| |[Homepage](https://stm.io)|[@k3zi_](https://twitter.com/k3zi_)| |
 |Klemens Strasser|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Homepage](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|[@klemensstrasser](https://twitter.com/klemensstrasser)||
+|Kyle Bashour| [Dodger](https://itunes.apple.com/app/id1050023116) |[Grove](https://github.com/kylebshr/grove)| [@kylebshr](https://twitter.com/kylebshr)| |
 |Kyle Spadaro| |[GitHub](https://github.com/kylespadaro/KyleSpadaro)| [@kylespadaro](https://twitter.com/kylespadaro)| |
 |Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
 |Marcel Voss||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|[@uimarcel](https://twitter.com/uimarcel)||
