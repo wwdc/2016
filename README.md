@@ -44,6 +44,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Kyle Spadaro| |[GitHub](https://github.com/kylespadaro/KyleSpadaro)| [@kylespadaro](https://twitter.com/kylespadaro)| |
 |Luqman Fauzi|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)| |[@lkmfz](https://twitter.com/lkmfz)| |
 |Marcel Voss||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|[@uimarcel](https://twitter.com/uimarcel)||
+|Maurice Breit|[4Fahrt](https://itunes.apple.com/de/app/4fahrt-schuler/id1105478291?mt=8)| |[@1mau6](https://twitter.com/1mau6)| |
 |Maximilian Litteral|[Television Time - Track your favorite shows](http://maximilianlitteral.com/TelevisionTime/iTunes/index.html)| |[@MaxHasADHD](https://twitter.com/MaxHasADHD)| |
 |Michael Dugan||Submitted|[@Michael_Dugan33](https://twitter.com/Michael_Dugan33)||
 |Natanel Niazoff|[Zmanim for YU](https://itunes.apple.com/us/app/zmanim-for-yu/id1071006216?mt=8)||[@niazoff](https://twitter.com/niazoff)| |
