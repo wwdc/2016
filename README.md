@@ -12,7 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | ---- | -------------- | ----------------------- | ------------ | ------ |
 |Agisilaos Tsaraboulidis| |Submitted|[@AgisilaosTs](https://twitter.com/AgisilaosTs)| |
 |Alex Telek| |Submitted|[@alexmtk](https://twitter.com/alexmtk)| |
-|Aman Jain|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)/[Spinny Monster](https://itunes.apple.com/in/app/spinny-monster/id1095025740?mt=8)|[@amanj203](https://twitter.com/amanj203)| |
+|Aman Jain|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)/[App Store](https://itunes.apple.com/in/app/spinny-monster/id1095025740?mt=8)|[@amanj203](https://twitter.com/amanj203)| |
 |Amit Kalra|[6284 Calc](https://itunes.apple.com/us/app/6284-calc/id1006996600?mt=8)|[YouTube](https://www.youtube.com/watch?v=2JnI8qE-LKs)|[@amitnkalra](https://twitter.com/amitnkalra)| |
 |Andreas Neusuess|[TourTime](https://itunes.apple.com/app/id848979893)|[YouTube](https://youtu.be/7It2i-9BCp8) / [GitHub](https://github.com/Tantalum73/InteractiveResume-WWDC2016)|[@Klaarname](https://twitter.com/Klaarname)| |
 |Andrew Ke|[Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8)|Submitted|[@andrewke64](https://twitter.com/andrewke64)| |
