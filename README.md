@@ -22,7 +22,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Arik Sosman](https://twitter.com/arikaleph) | | [YouTube](https://youtu.be/TtHM31sxxbU) | | |
 | Arnav Gudibande| [DriveSafe](https://github.com/SFHSHacks/DriveSafe) | [YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU) | MapKit & CoreLocation | |
 | [Aryan Kashyap](https://twitter.com/NSAryan12) | | [YouTube](https://www.youtube.com/watch?v=qD-uxBhNKb4) | | |
-|Aubert Charles|[CharlieTranslater](https://geo.itunes.apple.com/fr/app/charlietranslater/id1033023882?mt=8)|[GitHub](https://github.com/Charliebegood/WWDC-2106-App.git)|MapKit & Scene/SpriteKit|Submitted|
+|Aubert Charles|[CharlieTranslater](https://geo.itunes.apple.com/fr/app/charlietranslater/id1033023882?mt=8)|[GitHub](https://github.com/Charliebegood/WWDC-2106-App.git)|MapKit & Scene/SpriteKit||
 | [Ayush Aggarwal](https://twitter.com/Highestage) | | Submitted| | |
 | [Brendan Boyle](https://twitter.com/brendancboyle) | [Universal Presenter Remote](https://itunes.apple.com/us/app/universal-presenter-remote/id866740670?ls=1&mt=8) | [GitHub](https://github.com/brendancboyle/Universal-Presenter-Remote-iOS/) | | |
 | [Cheng-Yu Hsu](https://twitter.com/cyhsutw) | [Hop](http://hop.appfinca.com) | [GitHub](https://github.com/cyhsutw/imaji) | | |
@@ -54,7 +54,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Natanel Niazoff](https://twitter.com/niazoff) | [Zmanim for YU](https://itunes.apple.com/us/app/zmanim-for-yu/id1071006216?mt=8) | | | |
 | [Nicholas Gibson](https://twitter.com/Mr_NickyG) | [PredsNU](https://itunes.apple.com/us/app/predsnu/id917520140?mt=8) | Submitted| |
 | [Rehaan Advani](https://twitter.com/Rehaan_Advani) | | [YouTube](https://www.youtube.com/watch?v=mUDBBcXHkLI) |MapKit & 3D Touch| |
-| [Salman Husain](https://twitter.com/aeroxtwo) | [Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete) | [YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o) |3D Touch & Accessibility|Submitted| 
+| [Salman Husain](https://twitter.com/aeroxtwo) | [Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete) | [YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o) |3D Touch & Accessibility|| 
 | [Sam Eckert](https://twitter.com/Sam0711er) | [Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8) | [YouTube](https://www.youtube.com/watch?v=4uFP_xQWOX4) | | |
 | [Sam Patzer](https://twitter.com/wizages) | | [YouTube](https://www.youtube.com/watch?v=-DFINkoEZhU) | | |
 | [Sebastian Dobrincu](https://twitter.com/sebyddd) | [Voya - Your personal travel assistant](https://itunes.apple.com/us/app/voya-your-personal-travel/id1082760606) | [YouTube](https://www.youtube.com/watch?v=fbTMWC0y9hs) | | |
@@ -62,7 +62,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Siddhant Chaurasia](https://twitter.com/mr_s_chaurasia) | [Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8) | | | |
 | [Stephen McMillan](https://twitter.com/stevowevo77) | [Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719) | | | |
 | Vignesh Varadarajan| [BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8) | [YouTube](https://www.youtube.com/watch?v=H429tmvM0zI) | | |
-| [Vincent Le](https://www.instagram.com/vinnyoodles/) | [QSport](https://github.com/QSport/QSport) | [YouTube](https://www.youtube.com/watch?v=f1vPOc-EaQ8) | | Submitted|
+| [Vincent Le](https://www.instagram.com/vinnyoodles/) | [QSport](https://github.com/QSport/QSport) | [YouTube](https://www.youtube.com/watch?v=f1vPOc-EaQ8) | | |
 | [Vladimir Danila](https://twitter.com/danilavladi) | [Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8) | Submitted| | |
 | [Weiran Xiong](https://twitter.com/WeiranXiong) | | Submitted| | |
 | [Will Oakley](https://twitter.com/woakley5) | [Coincident](https://itunes.apple.com/ie/app/coincident-3d-touch-game/id1069735902?mt=8) | [GitHub](https://github.com/woakley5/DPHS-App) | | |
