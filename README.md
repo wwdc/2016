@@ -8,7 +8,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 <!-- Insert your name below in alphabetical order. -->
 <!-- Please only submit the apps that you submitted for WWDC2016. -->
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
-| Name| App Store Link| Second App| Main Technologies| Status|
+| Name| App Store Link| Second App| Main Technologies| Status| <!-- Main Technologies should contain 2 at max. -->
 | ----| --------------| -----------------------| ------------| ------|
 | [Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs) | | Submitted| | |
 | [Alex Telek](https://twitter.com/alexmtk) | | Submitted| | |
@@ -62,5 +62,5 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Vladimir Danila](https://twitter.com/danilavladi) | [Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8) | Submitted| | |
 | [Weiran Xiong](https://twitter.com/WeiranXiong) | | Submitted| | |
 | [Will Oakley](https://twitter.com/woakley5) | [Coincident](https://itunes.apple.com/ie/app/coincident-3d-touch-game/id1069735902?mt=8) | [GitHub](https://github.com/woakley5/DPHS-App) | | |
-| [Yichen Cao](https://twitter.com/schemetrical) | [pixel - color picker and keyboard](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8) | Submitted| | |
+| [Yichen Cao](https://twitter.com/schemetrical) | [pixel - color picker and keyboard](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8) |Submitted|Keyboard Extension, 3D Touch| |
 <!-- Don't remove the newline. Alphabetical order please! -->
