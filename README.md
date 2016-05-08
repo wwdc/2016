@@ -60,6 +60,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Sebastian Dobrincu](https://twitter.com/sebyddd) | [Voya - Your personal travel assistant](https://itunes.apple.com/us/app/voya-your-personal-travel/id1082760606) | [YouTube](https://www.youtube.com/watch?v=fbTMWC0y9hs) | | |
 | [Shunzhe Ma](https://twitter.com/ShunzheMa) | | Submitted| | |
 | [Siddhant Chaurasia](https://twitter.com/mr_s_chaurasia) | [Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8) | | | |
+| [Simon Christian Krüger](http://kayos.eu/)| [caffe:ne](https://appsto.re/de/vsYj7.i)| - | HealthKit, CoreAnimation | Submitted |
 | [Stephen McMillan](https://twitter.com/stevowevo77) | [Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719) | | | |
 | Vignesh Varadarajan| [BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8) | [YouTube](https://www.youtube.com/watch?v=H429tmvM0zI) | | |
 | [Vincent Le](https://www.instagram.com/vinnyoodles/) | [QSport](https://github.com/QSport/QSport) | [YouTube](https://www.youtube.com/watch?v=f1vPOc-EaQ8) | | Submitted|
