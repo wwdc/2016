@@ -12,8 +12,8 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | ---- | -------------- | ----------------------- | ------------ | ------ |
 |[Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs)| |Submitted|| |
 |[Alex Telek](https://twitter.com/alexmtk)| |Submitted|| |
-|[Aman Jain|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)|[@amanj203](https://twitter.com/amanj203)| |
-|[Amit Kalra|[6284 Calc](https://itunes.apple.com/us/app/6284-calc/id1006996600?mt=8)|[YouTube](https://www.youtube.com/watch?v=2JnI8qE-LKs)|[@amitnkalra](https://twitter.com/amitnkalra)| |
+|[Aman Jain](https://twitter.com/amanj203)|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)|| |
+|[Amit Kalra](https://twitter.com/amitnkalra)|[6284 Calc](https://itunes.apple.com/us/app/6284-calc/id1006996600?mt=8)|[YouTube](https://www.youtube.com/watch?v=2JnI8qE-LKs)|| |
 |[Andreas Neusuess|[TourTime](https://itunes.apple.com/app/id848979893)|[YouTube](https://youtu.be/7It2i-9BCp8) / [GitHub](https://github.com/Tantalum73/InteractiveResume-WWDC2016)|[@Klaarname](https://twitter.com/Klaarname)| |
 |[Andrew Ke|[Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8)|Submitted|[@andrewke64](https://twitter.com/andrewke64)| |
 |[Andrew Robinson|[Brio - Don't Fall!](https://itunes.apple.com/us/app/brio-dont-fall!/id1087287522?mt=8)| |[@SirArkimedes](https://twitter.com/sirarkimedes)| |
