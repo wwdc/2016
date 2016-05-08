@@ -38,7 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Hari](https://www.twitter.com/coderguy5) | | Submitted| | |
 | Jari Martens| [ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8) | Submitted| | |
 | [Jeremy Stucki](https://twitter.com/parklyapp) | [Parkly](https://www.parkly.ch) | | | |
-| [John Ciocca](https://twitter.com/johnciocca) | | Submitted| | |
+| [John Ciocca](https://twitter.com/johnciocca) | | Submitted| CloudKit & 3D Touch| |
 | [Josh Bruce](https://twitter.com/Brucey125) | | Submitted| | |
 | [Kabir Oberai](https://twitter.com/kabiroberai) | | Submitted| | |
 | [Kesi Maduka](https://twitter.com/k3zi_) | | [Homepage](https://stm.io) | CoreAudio & 3D Touch | |
