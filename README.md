@@ -22,7 +22,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Arik Sosman](https://twitter.com/arikaleph) | | [YouTube](https://youtu.be/TtHM31sxxbU) | | |
 | Arnav Gudibande| [DriveSafe](https://github.com/SFHSHacks/DriveSafe) | [YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU) | MapKit & CoreLocation | |
 | [Aryan Kashyap](https://twitter.com/NSAryan12) | | [YouTube](https://www.youtube.com/watch?v=qD-uxBhNKb4) | | |
-|Aubert Charles|[CharlieTranslater](https://geo.itunes.apple.com/fr/app/charlietranslater/id1033023882?mt=8)|[GitHub](https://github.com/Charliebegood/WWDC-2106-App.git)|MapKit,Core Location,Scene&SpriteKit|Submitted|
+|Aubert Charles|[CharlieTranslater](https://geo.itunes.apple.com/fr/app/charlietranslater/id1033023882?mt=8)|[GitHub](https://github.com/Charliebegood/WWDC-2106-App.git)|MapKit,SceneKit|Submitted|
 | [Ayush Aggarwal](https://twitter.com/Highestage) | | Submitted| | |
 | [Brendan Boyle](https://twitter.com/brendancboyle) | [Universal Presenter Remote](https://itunes.apple.com/us/app/universal-presenter-remote/id866740670?ls=1&mt=8) | [GitHub](https://github.com/brendancboyle/Universal-Presenter-Remote-iOS/) | | |
 | [Cheng-Yu Hsu](https://twitter.com/cyhsutw) | [Hop](http://hop.appfinca.com) | [GitHub](https://github.com/cyhsutw/imaji) | | |
