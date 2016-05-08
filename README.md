@@ -65,4 +65,5 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Weiran Xiong](https://twitter.com/WeiranXiong) | | Submitted| | |
 | [Will Oakley](https://twitter.com/woakley5) | [Coincident](https://itunes.apple.com/ie/app/coincident-3d-touch-game/id1069735902?mt=8) | [GitHub](https://github.com/woakley5/DPHS-App) | | |
 | [Yichen Cao](https://twitter.com/schemetrical) | [pixel - color picker and keyboard](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8) |Submitted|Keyboard Extension & 3D Touch| |
+| [Zuhayeer Musa](https://twitter.com/zuhayeer) | [Bash - Organize activities with friends](https://itunes.apple.com/app/apple-store/id967147939?mt=8) | | | |
 <!-- Don't remove the newline. Alphabetical order please! -->
