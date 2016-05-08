@@ -8,7 +8,8 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 <!-- Insert your name below in alphabetical order. -->
 <!-- Please only submit the apps that you submitted for WWDC2016. -->
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
-| Name| App Store Link| Second App| Main Technologies| Status| <!-- Main Technologies should contain 2 at max. -->
+<!-- Main Technologies should contain 2 at max. -->
+| Name| App Store Link| Second App| Main Technologies| Status|
 | ----| --------------| -----------------------| ------------| ------|
 | [Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs) | | Submitted| | |
 | [Alex Telek](https://twitter.com/alexmtk) | | Submitted| | |
