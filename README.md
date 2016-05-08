@@ -36,7 +36,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [George Turner](https://twitter.com/FlamingFusion) | | Submitted| | |
 | [Gustaf Rosenblad](https://twitter.com/rosecoder) | [School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8) | Submitted| | |
 | [Hari](https://www.twitter.com/coderguy5) | | Submitted| | |
-| [Henrique Valcanaia](https://twitter.com/henrique_iv)| [Rett Syndrome](https://itunes.apple.com/br/app/rett-syndrome/id1043536159?mt=8) | [Teamboard for TV](https://itunes.apple.com/br/app/teamboard-for-tv/id1109057770?l=tr&mt=8) | ResearchKit, 3D Touch, tvOS | Submitted |
+| [Henrique Valcanaia](https://twitter.com/henrique_iv)| [Rett Syndrome](https://itunes.apple.com/br/app/rett-syndrome/id1043536159?mt=8) | [Teamboard for TV](https://itunes.apple.com/br/app/teamboard-for-tv/id1109057770?l=tr&mt=8) | ResearchKit & 3D Touch | |
 | Jari Martens| [ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8) | Submitted| | |
 | [Jeremy Stucki](https://twitter.com/parklyapp) | [Parkly](https://www.parkly.ch) | | | |
 | [John Ciocca](https://twitter.com/johnciocca) | | Submitted| CloudKit & 3D Touch| |
