@@ -12,7 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | ---- | -------------- | ----------------------- | ------------ | ------ |
 |Agisilaos Tsaraboulidis| |Submitted|[@AgisilaosTs](https://twitter.com/AgisilaosTs)| |
 |Alex Telek| |Submitted|[@alexmtk](https://twitter.com/alexmtk)| |
-|Aman Jain|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)|[@amanj203](https://twitter.com/amanj203)| |
+|Aman Jain|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs)/[App Store](https://itunes.apple.com/in/app/spinny-monster/id1095025740?mt=8)|[@amanj203](https://twitter.com/amanj203)| |
 |Amit Kalra|[6284 Calc](https://itunes.apple.com/us/app/6284-calc/id1006996600?mt=8)|[YouTube](https://www.youtube.com/watch?v=2JnI8qE-LKs)|[@amitnkalra](https://twitter.com/amitnkalra)| |
 |Andreas Neusuess|[TourTime](https://itunes.apple.com/app/id848979893)|[YouTube](https://youtu.be/7It2i-9BCp8) / [GitHub](https://github.com/Tantalum73/InteractiveResume-WWDC2016)|[@Klaarname](https://twitter.com/Klaarname)| |
 |Andrew Ke|[Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8)|Submitted|[@andrewke64](https://twitter.com/andrewke64)| |
@@ -56,7 +56,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Sam Patzer| |[YouTube](https://www.youtube.com/watch?v=-DFINkoEZhU)|[@Wizages](https://twitter.com/wizages)| |
 |Sebastian Dobrincu|[Voya - Your personal travel assistant](https://itunes.apple.com/us/app/voya-your-personal-travel/id1082760606)|[YouTube](https://www.youtube.com/watch?v=fbTMWC0y9hs)|[@Sebyddd](https://twitter.com/sebyddd)| |
 |Shunzhe Ma||Submitted|[@ShunzheMa](https://twitter.com/ShunzheMa)| |
-|Siddhant Chaurasia|[Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8)| |[@mr_s_chaurasia](https://twitter.com/mr_s_chaurasia)| |
+|Siddhant Chaurasia|[Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8)|Andreas Neusues |[@mr_s_chaurasia](https://twitter.com/mr_s_chaurasia)| |
 |Stephen McMillan|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)| |[@Stevowevo77](https://twitter.com/stevowevo77)| |
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|[YouTube](https://www.youtube.com/watch?v=H429tmvM0zI)| | |
 |Vladimir Danila|[Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8)|Submitted|[@DanilaVladi](https://twitter.com/danilavladi)| |
