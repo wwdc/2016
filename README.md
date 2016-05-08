@@ -15,14 +15,14 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Alex Telek](https://twitter.com/alexmtk) | | Submitted| | |
 | [Aman Jain](https://twitter.com/amanj203) | [Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8) | [YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs) | | |
 | [Amit Kalra](https://twitter.com/amitnkalra) | [6284 Calc](https://itunes.apple.com/us/app/6284-calc/id1006996600?mt=8) | [YouTube](https://www.youtube.com/watch?v=2JnI8qE-LKs) | | |
-| [Andreas Neusuess]() | [TourTime](https://itunes.apple.com/app/id848979893) | [YouTube](https://youtu.be/7It2i-9BCp8) / [GitHub](https://github.com/Tantalum73/InteractiveResume-WWDC2016) | | |
+| Andreas Neusuess | [TourTime](https://itunes.apple.com/app/id848979893) | [YouTube](https://youtu.be/7It2i-9BCp8) / [GitHub](https://github.com/Tantalum73/InteractiveResume-WWDC2016) | | |
 | [Andrew Ke](https://twitter.com/andrewke64) | [Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8) | Submitted| | |
 | [Andrew Robinson](https://twitter.com/sirarkimedes) | [Brio - Don't Fall!](https://itunes.apple.com/us/app/brio-dont-fall!/id1087287522?mt=8) | | | |
 | [Anushk Mittal](https://twitter.com/AnushkMittal) | [SleepIsle](https://itunes.apple.com/us/app/sleepisle/id1039746876?mt=8) | | | |
 | [Arik Sosman](https://twitter.com/arikaleph) | | [YouTube](https://youtu.be/TtHM31sxxbU) | | |
 | Arnav Gudibande| [DriveSafe](https://github.com/SFHSHacks/DriveSafe) | [YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU) | MapKit & CoreLocation | |
 | [Aryan Kashyap](https://twitter.com/NSAryan12) | | [YouTube](https://www.youtube.com/watch?v=qD-uxBhNKb4) | | |
-| [Ayush Aggarwal]() | | Submitted| | |
+| Ayush Aggarwal | | Submitted| | |
 | [Brendan Boyle](https://twitter.com/brendancboyle) | [Universal Presenter Remote](https://itunes.apple.com/us/app/universal-presenter-remote/id866740670?ls=1&mt=8) | [GitHub](https://github.com/brendancboyle/Universal-Presenter-Remote-iOS/) | | |
 | [Cheng-Yu Hsu](https://twitter.com/cyhsutw) | [Hop](http://hop.appfinca.com) | [GitHub](https://github.com/cyhsutw/imaji) | | |
 | [Cristian Tabuyo](https://instagram.com/ctapple_swift) | [Temperature](https://itunes.apple.com/es/app/alternativa-a-un-termometro/id1098259543?mt=8) | Submitted| | |
