@@ -13,7 +13,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | ----| --------------| -----------------------| ------------| ------|
 | [Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs) | | Submitted| | |
 | [Alex Telek](https://twitter.com/alexmtk) | | Submitted| | |
-| [Aman Jain](https://twitter.com/amanj203) | [Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8) | [YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs) / [App Store](https://itunes.apple.com/in/app/spinny-monster/id1095025740?mt=8) |SpriteKit & 3D Touch || |
+| [Aman Jain](https://twitter.com/amanj203) | [Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8) | [YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs) / [App Store](https://itunes.apple.com/in/app/spinny-monster/id1095025740?mt=8) |SpriteKit & 3D Touch | |
 | [Amit Kalra](https://twitter.com/amitnkalra) | [6284 Calc](https://itunes.apple.com/us/app/6284-calc/id1006996600?mt=8) | [YouTube](https://www.youtube.com/watch?v=2JnI8qE-LKs) | | |
 | Andreas Neusuess | [TourTime](https://itunes.apple.com/app/id848979893) | [YouTube](https://youtu.be/7It2i-9BCp8) / [GitHub](https://github.com/Tantalum73/InteractiveResume-WWDC2016) | | |
 | [Andrew Ke](https://twitter.com/andrewke64) | [Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8) | Submitted| | |
@@ -52,7 +52,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Maximilian Litteral](https://twitter.com/MaxHasADHD) | [Television Time - Track your favorite shows](http://maximilianlitteral.com/TelevisionTime/iTunes/index.html) | | | |
 | [Michael Dugan](https://twitter.com/Michael_Dugan33) | | Submitted| | |
 | [Natanel Niazoff](https://twitter.com/niazoff) | [Zmanim for YU](https://itunes.apple.com/us/app/zmanim-for-yu/id1071006216?mt=8) | | | |
-| [Nicholas Gibson](https://twitter.com/Mr_NickyG) | [PredsNU](https://itunes.apple.com/us/app/predsnu/id917520140?mt=8) | Submitted| |
+| [Nicholas Gibson](https://twitter.com/Mr_NickyG) | [PredsNU](https://itunes.apple.com/us/app/predsnu/id917520140?mt=8) | Submitted| | |
 | [Rehaan Advani](https://twitter.com/Rehaan_Advani) | | [YouTube](https://www.youtube.com/watch?v=mUDBBcXHkLI) |MapKit & 3D Touch| |
 | [Salman Husain](https://twitter.com/aeroxtwo) | [Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete) | [YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o) |3D Touch & Accessibility|| 
 | [Sam Eckert](https://twitter.com/Sam0711er) | [Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8) | [YouTube](https://www.youtube.com/watch?v=4uFP_xQWOX4) | | |
