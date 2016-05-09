@@ -47,7 +47,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Kesi Maduka](https://twitter.com/k3zi_)||[Homepage](https://stm.io)|CoreAudio & 3D Touch||
 |[Klemens Strasser](https://twitter.com/klemensstrasser)|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Homepage](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|||
 |[Kyle Bashour](https://twitter.com/kylebshr)|[Dodger](https://itunes.apple.com/app/id1050023116)|[Grove](https://github.com/kylebshr/grove)|||
-|[Kyle Spadaro](https://twitter.com/kylespadaro)||[GitHub](https://github.com/kylespadaro/KyleSpadaro)|||
+|[Kyle Spadaro](https://twitter.com/kylespadaro)||[GitHub](https://github.com/kylespadaro/KyleSpadaro)|CoreAudio|||
 |[Luqman Fauzi](https://twitter.com/lkmfz)|[Movfeedly](https://itunes.apple.com/app/movfeedly/id1085496373)||||
 |[Marcel Voss](https://twitter.com/uimarcel)||[YouTube](https://www.youtube.com/watch?v=dZljrMjzJN0)|||
 |[Martijn de Vos](https://twitter.com/devos50)|[YourConnector](https://itunes.apple.com/us/app/newlinq/id950231000?l=nl&ls=1&mt=8)|Submitted|||
