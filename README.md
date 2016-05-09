@@ -32,6 +32,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Eli Yazdi](https://twitter.com/eli_yazdi) | [3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8) | [GitHub](http://github.com/eliyazdi/3dtones) | | |
 | Erik Sargent| [Taxbot](https://itunes.apple.com/us/app/taxbot-automatic-mile-tracker/id461781884?mt=8) | | | |
 | [Evan Dekhayser](https://twitter.com/ERDekhayser) | [Contact Archiver](https://itunes.apple.com/us/app/contact-archiver/id733594022?mt=8) | [GitHub](https://github.com/edekhayser/WWDC-2016-Scholarship-App) | | |
+| [Felipe Silva](https://twitter.com/felipedmsilva) | [Aliens Jelly](https://itunes.apple.com/us/app/aliens-jelly/id1100376973?l=pt&ls=1&mt=8) |  | Siri Remote & SpriteKit | |
 | [Finn Gaida](https://twitter.com/fga) | [Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8) | [GitHub](https://github.com/finngaida/wwdc/tree/master/2016) | | |
 | [George Turner](https://twitter.com/FlamingFusion) | | Submitted| | |
 | [Gustaf Rosenblad](https://twitter.com/rosecoder) | [School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8) | Submitted| | |
