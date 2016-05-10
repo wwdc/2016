@@ -39,7 +39,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Eytan Schulman](https://twitter.com/eytanschulman)|[Journey Creator](https://itunes.apple.com/us/app/journey-creator/id1065269702?mt=8)||  MapKit & 3D Touch|Accepted|
 |[Felipe Silva](https://twitter.com/felipedmsilva)|[Aliens Jelly](https://itunes.apple.com/us/app/aliens-jelly/id1100376973?l=pt&ls=1&mt=8)||Siri Remote & SpriteKit||
 |[Finn Gaida](https://twitter.com/fga)|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|||
-|[George Turner](https://twitter.com/FlamingFusion)||Submitted|||
+|[George Turner](https://twitter.com/FlamingFusion)||Submitted|Apple Watch & Push Notifications|Rejected|
 |[Gustaf Rosenblad](https://twitter.com/rosecoder)|[School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|||
 |[Hari](https://www.twitter.com/coderguy5)||Submitted|||
 |[Harish Yerra](https://www.twitter.com/harishyerra4)||Submitted|3D Touch & MapKit|Accepted|
