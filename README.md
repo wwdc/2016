@@ -31,7 +31,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Cheng-Yu Hsu](https://twitter.com/cyhsutw)|[Hop](http://hop.appfinca.com)|[GitHub](https://github.com/cyhsutw/imaji)|||
 |[Cristian Tabuyo](https://instagram.com/ctapple_swift)|[Temperature](https://itunes.apple.com/es/app/alternativa-a-un-termometro/id1098259543?mt=8)|Submitted||Rejected|
 |[Dean Eigenmann](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
-|[Duan Wen](https://twitter.com/wddwycc)||[Github](https://github.com/wddwycc/Freehand)|||
+|[Duan Wen](https://twitter.com/wddwycc)||[Github](https://github.com/wddwycc/Freehand)||Rejected|
 |[Eduardo Santi](https://br.linkedin.com/in/eduardo-santi-44a9a399)||[GitHub](https://github.com/santieduardo/WWDC16)|3D Touch & MapKit||
 |[Eli Yazdi](https://twitter.com/eli_yazdi)|[3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)|[GitHub](http://github.com/eliyazdi/3dtones)|||
 |Erik Sargent|[Taxbot](https://itunes.apple.com/us/app/taxbot-automatic-mile-tracker/id461781884?mt=8)||||
