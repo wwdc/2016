@@ -56,7 +56,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Martijn de Vos](https://twitter.com/devos50)|[YourConnector](https://itunes.apple.com/us/app/newlinq/id950231000?l=nl&ls=1&mt=8)|Submitted|||
 |[Maurice Breit](https://twitter.com/1mau6)|[4Fahrt](https://itunes.apple.com/de/app/4fahrt-schuler/id1105478291?mt=8)||||
 |[Maximilian Litteral](https://twitter.com/MaxHasADHD)|[Television Time - Track your favorite shows](http://maximilianlitteral.com/TelevisionTime/iTunes/index.html)||||
-|[Michael Dugan](https://twitter.com/Michael_Dugan33)||Submitted|||
+|[Michael Dugan](https://twitter.com/Michael_Dugan33)||Submitted|MapKit & 3D Touch|Accepted|
 |Michael Royzen|[RecipeReadr - Your Recipes Read Aloud To You While You Cook](https://itunes.apple.com/us/app/recipereadr-your-recipes-read/id963588160?ls=1&mt=8)||AVSpeechSynthesizer & 3D Touch||
 |[Natanel Niazoff](https://twitter.com/niazoff)|[Zmanim for YU](https://itunes.apple.com/us/app/zmanim-for-yu/id1071006216?mt=8)||||
 |[Nicholas Gibson](https://twitter.com/Mr_NickyG)|[PredsNU](https://itunes.apple.com/us/app/predsnu/id917520140?mt=8)|Submitted|||
