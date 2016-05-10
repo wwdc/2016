@@ -50,7 +50,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[John Ciocca](https://twitter.com/johnciocca)||Submitted|CloudKit & 3D Touch|Rejected|
 |[Josh Bruce](https://twitter.com/Brucey125)||Submitted|||
 |[Kabir Oberai](https://twitter.com/kabiroberai)||Submitted|||
-|[Kesi Maduka](https://twitter.com/k3zi_)||[Homepage](https://stm.io)|CoreAudio & 3D Touch||
+|[Kesi Maduka](https://twitter.com/k3zi_)||[Homepage](https://stm.io)|CoreAudio & 3D Touch|Rejected|
 |[Klemens Strasser](https://twitter.com/klemensstrasser)|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Homepage](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|||
 |[Kyle Bashour](https://twitter.com/kylebshr)|[Dodger](https://itunes.apple.com/app/id1050023116)|[Grove](https://github.com/kylebshr/grove)||Rejected|
 |[Kyle Spadaro](https://twitter.com/kylespadaro)||[GitHub](https://github.com/kylespadaro/KyleSpadaro)|CoreAudio||
