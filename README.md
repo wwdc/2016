@@ -12,6 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Name|App Store Link|Second App|Main Technologies|Status|
 |----|--------------|----------|-----------------|------|
 |[Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs)||Submitted|||
+|[Alex Melnychuck](https://www.facebook.com/amelnychuck)|[The Diary - Track your health anywhere](https://itunes.apple.com/app/apple-store/id1020281972?mt=8)|Submitted|CareKit, ResearchKit, HealthKit, & NSLinguisticTagger|Accepted|
 |[Alex Telek](https://twitter.com/alexmtk)||Submitted|||
 |[Alisson Selistre](https://br.linkedin.com/in/alissonselistre)||[YouTube](https://www.youtube.com/watch?v=R4MG_5iwtoE)|||
 |[Aman Jain](https://twitter.com/amanj203)|[Hurtle iOS Game](https://itunes.apple.com/in/app/hurtle/id1085122455?mt=8)|[YouTube](https://www.youtube.com/watch?v=hpqBGLglLTs) / [App Store](https://itunes.apple.com/in/app/spinny-monster/id1095025740?mt=8)|SpriteKit & 3D Touch|Accepted|
@@ -40,7 +41,6 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[George Turner](https://twitter.com/FlamingFusion)||Submitted|||
 |[Gustaf Rosenblad](https://twitter.com/rosecoder)|[School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|||
 |[Hari](https://www.twitter.com/coderguy5)||Submitted|||
-|[Harish Yerra](https://www.twitter.com/harishyerra4)||Submitted|3D Touch & MapKit|Accepted|
 |[Henrique Valcanaia](https://twitter.com/henrique_iv)|[Rett Syndrome](https://itunes.apple.com/br/app/rett-syndrome/id1043536159?mt=8)|[Teamboard for TV](https://itunes.apple.com/br/app/teamboard-for-tv/id1109057770?l=tr&mt=8)|ResearchKit & 3D Touch||
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)|Submitted|||
 |[Jeremy Stucki](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
