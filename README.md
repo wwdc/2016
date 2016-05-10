@@ -26,7 +26,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Aubert Charles|[CharlieTranslater](https://geo.itunes.apple.com/fr/app/charlietranslater/id1033023882?mt=8)|[GitHub](https://github.com/Charliebegood/WWDC-2106-App.git)|MapKit & Scene/SpriteKit||
 |[Ayush Aggarwal](https://twitter.com/Highestage)||Submitted|||
 |[Benjamin Herzog](https://twitter.com/benchr)|[LOVOO Match](https://itunes.apple.com/de/app/lovoo-match/id1078169975?mt=8)||tvOS & UIKit|Rejected|
-+|[Brendan Boyle](https://twitter.com/brendancboyle)|[Universal Presenter Remote](https://itunes.apple.com/us/app/universal-presenter-remote/id866740670?ls=1&mt=8)|[GitHub](https://github.com/brendancboyle/Universal-Presenter-Remote-iOS/)|Tetherless Wi-Fi (watchOS 2), 3D Touch|Accepted|
+|[Brendan Boyle](https://twitter.com/brendancboyle)|[Universal Presenter Remote](https://itunes.apple.com/us/app/universal-presenter-remote/id866740670?ls=1&mt=8)|[GitHub](https://github.com/brendancboyle/Universal-Presenter-Remote-iOS/)|watchOS 2 & 3D Touch|Accepted|
 |[Cheng-Yu Hsu](https://twitter.com/cyhsutw)|[Hop](http://hop.appfinca.com)|[GitHub](https://github.com/cyhsutw/imaji)|||
 |[Cristian Tabuyo](https://instagram.com/ctapple_swift)|[Temperature](https://itunes.apple.com/es/app/alternativa-a-un-termometro/id1098259543?mt=8)|Submitted|||
 |[Dean Eigenmann](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
