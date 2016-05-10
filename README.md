@@ -44,7 +44,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)|Submitted|||
 |[Jeremy Stucki](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
 |[Jessica Yeh](https://twitter.com/JessicaYeh)|[OmniBuzz](https://itunes.apple.com/us/app/omnibuzz-location-alarm-for/id1076106050)||MapKit & Core Location|Accepted|
-|[John Ciocca](https://twitter.com/johnciocca)||Submitted|CloudKit & 3D Touch||
+|[John Ciocca](https://twitter.com/johnciocca)||Submitted|CloudKit & 3D Touch|Rejected|
 |[Josh Bruce](https://twitter.com/Brucey125)||Submitted|||
 |[Kabir Oberai](https://twitter.com/kabiroberai)||Submitted|||
 |[Kesi Maduka](https://twitter.com/k3zi_)||[Homepage](https://stm.io)|CoreAudio & 3D Touch||
