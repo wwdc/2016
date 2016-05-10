@@ -68,6 +68,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Siddhant Chaurasia](https://twitter.com/mr_s_chaurasia)|[Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8)||||
 |[Simon Christian Krüger](http://kayos.eu/)|[caffe:ne](https://appsto.re/de/vsYj7.i)||HealthKit & CoreAnimation||
 |[Stephen McMillan](https://twitter.com/stevowevo77)|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)||||
+|[Stephen Melinyshyn](https://melinysh.me)||[GitHub](https://github.com/Melinysh/WWDC-Student-Scholarship-App-2016) | UIDynamics & 3D Touch | Accepted |
 |Tom Morrell|[Saker - Emotion recognition](http://saker.io)||ResearchKit & 3D Touch||
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|[YouTube](https://www.youtube.com/watch?v=H429tmvM0zI)|||
 |[Vincent Le](https://www.instagram.com/vinnyoodles/)|[QSport](https://github.com/QSport/QSport)|[YouTube](https://www.youtube.com/watch?v=f1vPOc-EaQ8)|||
