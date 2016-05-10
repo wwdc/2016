@@ -64,6 +64,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Natanel Niazoff](https://twitter.com/niazoff)|[Zmanim for YU](https://itunes.apple.com/us/app/zmanim-for-yu/id1071006216?mt=8)||||
 |[Nicholas Gibson](https://twitter.com/Mr_NickyG)|[PredsNU](https://itunes.apple.com/us/app/predsnu/id917520140?mt=8)|Submitted|||
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)||[YouTube](https://www.youtube.com/watch?v=mUDBBcXHkLI)|MapKit & 3D Touch|Accepted|
+|[Saif Al-Dilaimi](https://twitter.com/SAIFG92)|[PrayfortheWorld](https://itunes.apple.com/us/app/pray-for-world-add-any-flag/id1075363176?mt=8)||3D Touch & Push Notifications|Rejected|
 |[Salman Husain](https://twitter.com/aeroxtwo)|[Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete)|[YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o)|3D Touch & Accessibility|Rejected|
 |[Sam Eckert](https://twitter.com/Sam0711er)|[Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)|[YouTube](https://www.youtube.com/watch?v=4uFP_xQWOX4)|||
 |[Sam Patzer](https://twitter.com/wizages)||[YouTube](https://www.youtube.com/watch?v=-DFINkoEZhU)|||
