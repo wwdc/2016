@@ -21,7 +21,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Andrew Robinson](https://twitter.com/sirarkimedes)|[Brio - Don't Fall!](https://itunes.apple.com/us/app/brio-dont-fall!/id1087287522?mt=8)||||
 |[Anushk Mittal](https://twitter.com/AnushkMittal)|[SleepIsle](https://itunes.apple.com/us/app/sleepisle/id1039746876?mt=8)||||
 |[Arik Sosman](https://twitter.com/arikaleph)||[YouTube](https://youtu.be/TtHM31sxxbU)|||
-|Arnav Gudibande|[DriveSafe](https://github.com/SFHSHacks/DriveSafe)|[YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU)|MapKit & CoreLocation||
+|Arnav Gudibande|[DriveSafe](https://github.com/SFHSHacks/DriveSafe)|[YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU)|MapKit & CoreLocation|Accepted|
 |[Aryan Kashyap](https://twitter.com/NSAryan12)||[YouTube](https://www.youtube.com/watch?v=qD-uxBhNKb4)|||
 |Aubert Charles|[CharlieTranslater](https://geo.itunes.apple.com/fr/app/charlietranslater/id1033023882?mt=8)|[GitHub](https://github.com/Charliebegood/WWDC-2106-App.git)|MapKit & Scene/SpriteKit||
 |[Ayush Aggarwal](https://twitter.com/Highestage)||Submitted|||
