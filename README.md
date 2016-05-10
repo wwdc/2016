@@ -64,7 +64,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Michael Royzen](https://twitter.com/MichaelRoyzen)|[RecipeReadr - Your Recipes Read Aloud To You While You Cook](https://itunes.apple.com/us/app/recipereadr-your-recipes-read/id963588160?ls=1&mt=8)||AVSpeechSynthesizer & 3D Touch|Accepted|
 |[Natanel Niazoff](https://twitter.com/niazoff)|[Zmanim for YU](https://itunes.apple.com/us/app/zmanim-for-yu/id1071006216?mt=8)||||
 |[Nicholas Gibson](https://twitter.com/Mr_NickyG)|[PredsNU](https://itunes.apple.com/us/app/predsnu/id917520140?mt=8)|Submitted|||
-|[Ritvik Upadhyaya](http://pages.cs.wisc.edu/~ritvik/)|||Multipeer Connectivity|Accepted|
+|[Ritvik Upadhyaya](http://pages.cs.wisc.edu/~ritvik/)||Submitted|Multipeer Connectivity|Accepted|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)||[YouTube](https://www.youtube.com/watch?v=mUDBBcXHkLI)|MapKit & 3D Touch|Accepted|
 |[Saif Al-Dilaimi](https://twitter.com/SAIFG92)|[PrayfortheWorld](https://itunes.apple.com/us/app/pray-for-world-add-any-flag/id1075363176?mt=8)||3D Touch & Push Notifications|Rejected|
 |[Salman Husain](https://twitter.com/aeroxtwo)|[Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete)|[YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o)|3D Touch & Accessibility|Rejected|
