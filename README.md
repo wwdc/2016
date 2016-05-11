@@ -86,6 +86,6 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Will Oakley](https://twitter.com/woakley5)|[Coincident](https://itunes.apple.com/ie/app/coincident-3d-touch-game/id1069735902?mt=8)|[GitHub](https://github.com/woakley5/DPHS-App)||Accepted|
 |[Yichen Cao](https://twitter.com/schemetrical)|[pixel - color picker and keyboard](https://itunes.apple.com/us/app/pixel/id936267373?ls=1&mt=8)|Submitted|Keyboard Extension & 3D Touch|Rejected|
 |[Yifei He](https://twitter.com/eflyjason)|[古詩一指彈](https://itunes.apple.com/us/app/gu-shi-yi-zhi-dan/id1030296579?l=zh&ls=1&mt=8)|Submitted|Apple Watch & iBeacon|Accepted|
-|[Zach Simone](https://twitter.com/zachsimone)|[Daily Steps](https://itunes.apple.com/au/app/daily-steps-simple-step-counting/id720629415?mt=8)|Submitted|Today Widget, Apple Watch & 3D Touch|Accepted|
+|[Zach Simone](https://twitter.com/zachsimone)|[Daily Steps](https://itunes.apple.com/au/app/daily-steps-simple-step-counting/id720629415?mt=8)|Submitted|Apple Watch & 3D Touch|Accepted|
 |[Zuhayeer Musa](https://twitter.com/zuhayeer)|[Bash - Organize activities with friends](https://itunes.apple.com/app/apple-store/id967147939?mt=8)||||
 <!-- Don't remove the newline. Alphabetical order please! -->
