@@ -77,7 +77,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Shunzhe Ma](https://twitter.com/ShunzheMa)||Submitted|||
 |[Siddhant Chaurasia](https://twitter.com/mr_s_chaurasia)|[Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8)||||
 |[Simon Christian Krüger](http://kayos.eu/)|[caffe:ne](https://appsto.re/de/vsYj7.i)||HealthKit & CoreAnimation|Accepted|
-|[Stephen McMillan](https://twitter.com/stevowevo77)|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)||||
+|[Stephen McMillan](https://twitter.com/stevowevo77)|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)|| SpriteKit, WatchKit, 3DTouch & Local Notifications | Accepted |
 |[Stephen Melinyshyn](https://melinysh.me)||[GitHub](https://github.com/Melinysh/WWDC-Student-Scholarship-App-2016) | UIDynamics & 3D Touch | Accepted |
 |Tejen Patel||[YouTube](https://x.tejen.net/hzc) / [GitHub](https://www.github.com/tejen/codepath-flicks/)||Accepted|
 |Tom Morrell|[Saker - Emotion recognition](http://saker.io)||ResearchKit & 3D Touch|Accepted|
