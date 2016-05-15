@@ -12,6 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Name|App Store Link|Second App|Main Technologies|Status|
 |----|--------------|----------|-----------------|------|
 |[Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs)||Submitted|||
+|[Alexander Groß](https://www.facebook.com/iamag3)|[doYoKno](https://itunes.apple.com/ai/app/doyokno/id1016053500?mt=8)|Submitted||Accepted|
 |[Alex Hoppen](https://twitter.com/ahoppen)||[GitHub](https://github.com/ahoppen/WWDC-Scholarship-2016)||Accepted|
 |[Alex Melnychuck](https://www.facebook.com/amelnychuck)|[The Diary - Track your health anywhere](https://itunes.apple.com/app/apple-store/id1020281972?mt=8)|Submitted|CareKit & NSLinguisticTagger|Accepted|
 |[Alex Telek](https://twitter.com/alexmtk)||Submitted|||
