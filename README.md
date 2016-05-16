@@ -12,7 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Name|App Store Link|Second App|Main Technologies|Status|
 |----|--------------|----------|-----------------|------|
 |[Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs)||Submitted|||
-|[Ahan Malhotra](https://twitter.com/ahan_tm)|[TEDxCoconutGrove](https://itunes.apple.com/us/app/tedxcoconutgrove/id1078121660)|Submitted|CloudKit, Maps|Accepted|
+|[Ahan Malhotra](https://twitter.com/ahan_tm)|[TEDxCoconutGrove](https://itunes.apple.com/us/app/tedxcoconutgrove/id1078121660)|Submitted|CloudKit & Maps|Accepted|
 |[Alex Hoppen](https://twitter.com/ahoppen)||[GitHub](https://github.com/ahoppen/WWDC-Scholarship-2016)||Accepted|
 |[Alex Melnychuck](https://www.facebook.com/amelnychuck)|[The Diary - Track your health anywhere](https://itunes.apple.com/app/apple-store/id1020281972?mt=8)|Submitted|CareKit & NSLinguisticTagger|Accepted|
 |[Alex Telek](https://twitter.com/alexmtk)||Submitted|||
