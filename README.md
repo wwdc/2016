@@ -45,7 +45,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Finn Gaida](https://twitter.com/fga)|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|Live Photos & UIVisualEffects|Rejected|
 |[George Turner](https://twitter.com/FlamingFusion)||Submitted|Apple Watch & Push Notifications|Rejected|
 |[Gustaf Rosenblad](https://twitter.com/rosecoder)|[School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|||
-|[Hari](https://www.twitter.com/coderguy5)||Submitted||Core Motion, Core Animation, GLKit|Rejected|
+|[Hari](https://www.twitter.com/coderguy5)||Submitted|Core Motion, GLKit|Rejected|
 |[Harish Yerra](https://www.twitter.com/harishyerra4)||Submitted|3D Touch & MapKit|Accepted|
 |[Henrique Valcanaia](https://twitter.com/henrique_iv)|[Rett Syndrome](https://itunes.apple.com/br/app/rett-syndrome/id1043536159?mt=8)|[Teamboard for TV](https://itunes.apple.com/br/app/teamboard-for-tv/id1109057770?l=tr&mt=8)|ResearchKit & 3D Touch|Rejected|
 |[Jan Philip Bernius](https://github.com/jpbernius)||Submitted|3D Touch & MapKit|Accepted|
