@@ -85,6 +85,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Stephen McMillan](https://twitter.com/stevowevo77)|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)|| WatchKit & 3D Touch | Accepted |
 |[Stephen Melinyshyn](https://melinysh.me)||[GitHub](https://github.com/Melinysh/WWDC-Student-Scholarship-App-2016) | UIDynamics & 3D Touch | Accepted |
 |Tejen Patel||[YouTube](https://x.tejen.net/hzc) / [GitHub](https://www.github.com/tejen/codepath-flicks/)||Accepted|
+|[Timur Galimov](https://www.facebook.com/timaktimaktimak)|[Adicty - awesome dictionary for addicted](https://itunes.apple.com/us/app/adicty-awesome-dictionary/id979262617?mt=8)|| 3D Touch & Spotlight Search | Accepted |
 |Tom Morrell|[Saker - Emotion recognition](http://saker.io)||ResearchKit & 3D Touch|Accepted|
 |[Varun Shenoy](http://varunshenoy.github.io/)||Submitted|3D Touch & MapKit|Accepted|
 |[Vegard Solheim Theriault](https://twitter.com/vegather)||[Github](https://github.com/vegather/2048-Multiplayer)|SpriteKit|Accepted|
