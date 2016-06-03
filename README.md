@@ -58,6 +58,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Kabir Oberai](https://twitter.com/kabiroberai)||Submitted|||
 |[Kai Aldag](https://twitter.com/kaicode2)||Submitted|3D Touch & Core Spotlight Search|Accepted|
 |[Kesi Maduka](https://twitter.com/k3zi_)||[Homepage](https://stm.io)|CoreAudio & 3D Touch|Rejected|
+|[Kilian Koeltzsch](https://github.com/kiliankoe)|[ParkenDD](https://parkendd.de)||MapKit & 3D Touch|Accepted|
 |[Klemens Strasser](https://twitter.com/klemensstrasser)|[Elementary Minute](https://itunes.apple.com/us/app/elementary-minute/id889417668?mt=8)|[Homepage](https://www.facebook.com/Asymmetric-1016800745046748/?fref=ts)|||
 |[Kyle Bashour](https://twitter.com/kylebshr)|[Dodger](https://itunes.apple.com/app/id1050023116)|[Grove](https://github.com/kylebshr/grove)||Rejected|
 |[Kyle Spadaro](https://twitter.com/kylespadaro)||[GitHub](https://github.com/kylespadaro/KyleSpadaro)|WebKit & UIKit|Accepted|
