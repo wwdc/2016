@@ -51,6 +51,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Henrique Valcanaia](https://twitter.com/henrique_iv)|[Rett Syndrome](https://itunes.apple.com/br/app/rett-syndrome/id1043536159?mt=8)|[Teamboard for TV](https://itunes.apple.com/br/app/teamboard-for-tv/id1109057770?l=tr&mt=8)|ResearchKit & 3D Touch|Rejected|
 |[Jan Philip Bernius](https://github.com/jpbernius)||Submitted|3D Touch & MapKit|Accepted|
 |Jari Martens|[ConnectR](https://itunes.apple.com/app/connectr-all-social-media/id905696962?mt=8)|Submitted|||
+|[Jaxon Kneipp](https://github.com/jaxonkneipp)||Submitted|3D Touch & Apple Watch|Accepted|
 |[Jeremy Stucki](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
 |[Jessica Yeh](https://twitter.com/JessicaYeh)|[OmniBuzz](https://itunes.apple.com/us/app/omnibuzz-location-alarm-for/id1076106050)||MapKit & Core Location|Accepted|
 |[Jimmy Liu](https://twitter.com/zuhayeer)|[Bash - Organize activities with friends](https://itunes.apple.com/app/apple-store/id967147939?mt=8)|||Accepted|
