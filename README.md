@@ -44,6 +44,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Felipe Silva](https://twitter.com/felipedmsilva)|[Aliens Jelly](https://itunes.apple.com/us/app/aliens-jelly/id1100376973?l=pt&ls=1&mt=8)||Siri Remote & SpriteKit||
 |[Felix Knispel](https://twitter.com/felkni)||Submitted|HomeKit|Accepted|
 |[Finn Gaida](https://twitter.com/fga)|[Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8)|[GitHub](https://github.com/finngaida/wwdc/tree/master/2016)|Live Photos & UIVisualEffects|Rejected|
+|[Florian Pfisterer](https://twitter.com/FlorianPfi)|[FlowLog](https://itunes.apple.com/app/flowlog-find-your-flow-in/id1072346312)||CoreAnimation & Notifications|Accepted|
 |[George Turner](https://twitter.com/FlamingFusion)||Submitted|Apple Watch & Push Notifications|Rejected|
 |[Gustaf Rosenblad](https://twitter.com/rosecoder)|[School meal](https://itunes.apple.com/se/app/skolmaten/id416550379?mt=8)|Submitted|||
 |[Hari](https://www.twitter.com/coderguy5)||Submitted|Core Motion & GLKit|Rejected|
