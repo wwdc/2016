@@ -35,6 +35,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Cheng-Yu Hsu](https://twitter.com/cyhsutw)|[Hop](http://hop.appfinca.com)|[GitHub](https://github.com/cyhsutw/imaji)||Rejected|
 |[Cristian Tabuyo](https://instagram.com/ctapple_swift)|[Temperature](https://itunes.apple.com/es/app/alternativa-a-un-termometro/id1098259543?mt=8)|Submitted|||
 |[Damian Camilleri](https://damiancamilleri.com/)||Submitted|3D Touch & Collection Views|Accepted|
+|[David Moore](https://geo.itunes.apple.com/us/app/flipsort/id1053342820?mt=8)||Submitted|Siri Remote & SpriteKit|Accepted|
 |[Dean Eigenmann](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
 |[Duan Wen](https://twitter.com/wddwycc)||[Github](https://github.com/wddwycc/Freehand)||Rejected|
 |[Eduardo Santi](https://br.linkedin.com/in/eduardo-santi-44a9a399)||[GitHub](https://github.com/santieduardo/WWDC16)|3D Touch & MapKit||
