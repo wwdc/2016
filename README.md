@@ -11,7 +11,6 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 <!-- Main Technologies should contain 2 at MAXIMUM, preferably one from each app! -->
 |Name|App Store Link|Second App|Main Technologies|Status|
 |----|--------------|----------|-----------------|------|
-|[Antoine Cormery](https://twitter.com/legomanfish)||[GitHub](https://github.com/legomanfish/peereversi)|Multipeer Connectivity|Rejected|
 |[Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs)||Submitted|||
 |[Ahan Malhotra](https://twitter.com/ahan_tm)|[TEDxCoconutGrove](https://itunes.apple.com/us/app/tedxcoconutgrove/id1078121660)|Submitted|CloudKit & Maps|Accepted|
 |[Al Park](https://www.linkedin.com/in/alspark)|[Reax - WITNESS AMERICA RIGHT NOW!](https://itunes.apple.com/us/app/reax-witness-america-right/id1076183758?mt=8)||3D Touch|Accepted|
@@ -25,6 +24,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Andreas Neusuess|[TourTime](https://itunes.apple.com/app/id848979893)|[YouTube](https://youtu.be/7It2i-9BCp8) / [GitHub](https://github.com/Tantalum73/InteractiveResume-WWDC2016)|||
 |[Andrew Ke](https://twitter.com/andrewke64)|[Formative](https://itunes.apple.com/us/app/formative/id1032617767?mt=8)|Submitted|Push Notifications & 3D Touch|Accepted|
 |[Andrew Robinson](https://twitter.com/sirarkimedes)|[Brio - Don't Fall!](https://itunes.apple.com/us/app/brio-dont-fall!/id1087287522?mt=8)||||
+|[Antoine Cormery](https://twitter.com/legomanfish)||[GitHub](https://github.com/legomanfish/peereversi)|Multipeer Connectivity|Rejected|
 |[Anushk Mittal](https://twitter.com/AnushkMittal)|[SleepIsle](https://itunes.apple.com/us/app/sleepisle/id1039746876?mt=8)||  HealthKit & 3D Touch|Accepted|
 |[Arik Sosman](https://twitter.com/arikaleph)||[YouTube](https://youtu.be/TtHM31sxxbU)|||
 |Arnav Gudibande|[DriveSafe](https://github.com/SFHSHacks/DriveSafe)|[YouTube](https://www.youtube.com/watch?v=4Ft6264U1PU)|MapKit & CoreLocation|Accepted|
