@@ -11,6 +11,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 <!-- Main Technologies should contain 2 at MAXIMUM, preferably one from each app! -->
 |Name|App Store Link|Second App|Main Technologies|Status|
 |----|--------------|----------|-----------------|------|
+|[Antoine Cormery](https://twitter.com/legomanfish)||[GitHub](https://github.com/legomanfish/peereversi)|Multipeer Connectivity|Rejected|
 |[Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs)||Submitted|||
 |[Ahan Malhotra](https://twitter.com/ahan_tm)|[TEDxCoconutGrove](https://itunes.apple.com/us/app/tedxcoconutgrove/id1078121660)|Submitted|CloudKit & Maps|Accepted|
 |[Al Park](https://www.linkedin.com/in/alspark)|[Reax - WITNESS AMERICA RIGHT NOW!](https://itunes.apple.com/us/app/reax-witness-america-right/id1076183758?mt=8)||3D Touch|Accepted|
