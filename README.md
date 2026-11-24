@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2016/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
+| Participant | Links<br><img src="assets/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | [Agisilaos Tsaraboulidis](https://twitter.com/AgisilaosTs) |  | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
 | [Ahan Malhotra](https://twitter.com/ahan_tm) | [App Store](https://itunes.apple.com/us/app/tedxcoconutgrove/id1078121660)<br><sub>CloudKit &amp; Maps</sub> | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
